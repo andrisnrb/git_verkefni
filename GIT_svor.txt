@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd = notað til þess að breyta current directory
 	cd ~ = fer á fyrri skrá sem þú varst á síðast
@@ -33,4 +34,41 @@
         Repository = Þar sem maður geymir verkefninn sín
 
 8.	Hvenær er sniðugt að nota greinar (branches)?
+=======
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd = notað til þess að breyta current directory
+	cd ~ = fer á fyrri skrá sem þú varst á síðast
+	ls = command sem skrifar út lista um öll unix og unix-like files
+	pwd = skrifar fullt pathname núverandi vinnumöppu við staðlaða framleiðslu.
+	mkdir = Stytting á "gera skrá", mkdir er notað til að búa til möppur á skrá kerfi.
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone = Klónar geymslu í nýja skrá
+	git log = Sýna Commit loginn
+	git status = Sýnir vinnandi tré statusinn
+	git diff = Sýnir breytingar á milli commits og commit and working tree, etc
+	git checkout = Breytir útibú eða endurheimtar working tree skrár
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff = Sýnir breytingar á milli commits og commit and working tree, etc
+	b) git diff --staged = Sýnir allar breytingar
+	c) git diff commit1 commit2 = Sýnir fyrsta og annað commitið
+
+4. 	Hvað er útgáfustýring (e.4. 	Hvað er útgáfustýring (e.version control)?  
+        Það er kerfi sem tekur upp breytingar í ákveðnu filei eða hóp af fileum
+
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+        það er mjög góð leið til að geyma verkefninn sín
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+        Mjög lítið, því að ég gleymi því 
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+        Working directory = Er mappan með upprunalegu skrármar undir git stjórn (í rót allra dirs undir stjórn .git skrá er til staðar).
+        Staging area = Er fyrsta skrefið til að fremja ferli í git. Það er gert í tveimur skrefum: sviðsetning(staging) og alvöru commitið.
+        Repository = Þar sem maður geymir verkefninn sín
+
+8.	Hvenær er sniðugt að nota greinar (branches)?
+>>>>>>> 2e279384c408cbd193ae2c12c1cae63c5f709348
         Ef --list er gefið, eða ef það eru engit utanlegir valkostir, þá er branch skráð niður
