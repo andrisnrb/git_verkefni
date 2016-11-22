@@ -1,76 +1,77 @@
 <<<<<<< HEAD
-1. Hvağ gera eftirfarandi Linux skipanir?
-	cd = notağ til şess ağ breyta current directory
-	cd ~ = fer á fyrri skrá sem şú varst á síğast
-	ls = command sem skrifar út lista um öll unix og unix-like files
-	pwd = skrifar fullt pathname núverandi vinnumöppu viğ stağlağa framleiğslu.
-	mkdir = Stytting á "gera skrá", mkdir er notağ til ağ búa til möppur á skrá kerfi.
+1. HvaÃ° gera eftirfarandi Linux skipanir?
+	cd = notaÃ° til Ã¾ess aÃ° breyta current directory
+	cd ~ = fer Ã¡ fyrri skrÃ¡ sem Ã¾Ãº varst Ã¡ sÃ­Ã°ast
+	ls = command sem skrifar Ãºt lista um Ã¶ll unix og unix-like files
+	pwd = skrifar fullt pathname nÃºverandi vinnumÃ¶ppu viÃ° staÃ°laÃ°a framleiÃ°slu.
+	mkdir = Stytting Ã¡ "gera skrÃ¡", mkdir er notaÃ° til aÃ° bÃºa til mÃ¶ppur Ã¡ skrÃ¡ kerfi.
 
-2. Hvağ gera eftirfarandi git skipanir og hvers vegna eru şær gagnlegar?
-	git clone = Klónar geymslu í nıja skrá
-	git log = Sına Commit loginn
-	git status = Sınir vinnandi tré statusinn
-	git diff = Sınir breytingar á milli commits og commit and working tree, etc
-	git checkout = Breytir útibú eğa endurheimtar working tree skrár
+2. HvaÃ° gera eftirfarandi git skipanir og hvers vegna eru Ã¾Ã¦r gagnlegar?
+	git clone = KlÃ³nar geymslu Ã­ nÃ½ja skrÃ¡
+	git log = SÃ½na Commit loginn
+	git status = SÃ½nir vinnandi trÃ© statusinn
+	git diff = SÃ½nir breytingar Ã¡ milli commits og commit and working tree, etc
+	git checkout = Breytir ÃºtibÃº eÃ°a endurheimtar working tree skrÃ¡r
 
-3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff = Sınir breytingar á milli commits og commit and working tree, etc
-	b) git diff --staged = Sınir allar breytingar
-	c) git diff commit1 commit2 = Sınir fyrsta og annağ commitiğ
+3. Hver er munurinn Ã¡ eftirfarandi git skipunum:
+	a) git diff = SÃ½nir breytingar Ã¡ milli commits og commit and working tree, etc
+	b) git diff --staged = SÃ½nir allar breytingar
+	c) git diff commit1 commit2 = SÃ½nir fyrsta og annaÃ° commitiÃ°
 
-4. 	Hvağ er útgáfustıring (e.4. 	Hvağ er útgáfustıring (e.version control)?  
-        Şağ er kerfi sem tekur upp breytingar í ákveğnu filei eğa hóp af fileum
+4. 	HvaÃ° er ÃºtgÃ¡fustÃ½ring (e.4. 	HvaÃ° er ÃºtgÃ¡fustÃ½ring (e.version control)?  
+        ÃaÃ° er kerfi sem tekur upp breytingar Ã­ Ã¡kveÃ°nu filei eÃ°a hÃ³p af fileum
 
 
-5.	Hverjir eru helstu kostir viğ ağ nota GIT?
-        şağ er mjög góğ leiğ til ağ geyma verkefninn sín
+5.	Hverjir eru helstu kostir viÃ° aÃ° nota GIT?
+        Ã¾aÃ° er mjÃ¶g gÃ³Ã° leiÃ° til aÃ° geyma verkefninn sÃ­n
 
-6.	Hversu oft telur şú ağ eigi ağ gera commit í verkefni, rökstuddu?
-        Mjög lítiğ, şví ağ ég gleymi şví 
+6.	Hversu oft telur Ã¾Ãº aÃ° eigi aÃ° gera commit Ã­ verkefni, rÃ¶kstuddu?
+        MjÃ¶g lÃ­tiÃ°, Ã¾vÃ­ aÃ° Ã©g gleymi Ã¾vÃ­ 
 
-7.	Hvağ er "Working directory"?" "Staging area"?" og "Repository" í GIT?
-        Working directory = Er mappan meğ upprunalegu skrármar undir git stjórn (í rót allra dirs undir stjórn .git skrá er til stağar).
-        Staging area = Er fyrsta skrefiğ til ağ fremja ferli í git. Şağ er gert í tveimur skrefum: sviğsetning(staging) og alvöru commitiğ.
-        Repository = Şar sem mağur geymir verkefninn sín
+7.	HvaÃ° er "Working directory"?" "Staging area"?" og "Repository" Ã­ GIT?
+        Working directory = Er mappan meÃ° upprunalegu skrÃ¡rmar undir git stjÃ³rn (Ã­ rÃ³t allra dirs undir stjÃ³rn .git skrÃ¡ er til staÃ°ar).
+        Staging area = Er fyrsta skrefiÃ° til aÃ° fremja ferli Ã­ git. ÃaÃ° er gert Ã­ tveimur skrefum: sviÃ°setning(staging) og alvÃ¶ru commitiÃ°.
+        Repository = Ãar sem maÃ°ur geymir verkefninn sÃ­n
 
-8.	Hvenær er sniğugt ağ nota greinar (branches)?
+8.	HvenÃ¦r er sniÃ°ugt aÃ° nota greinar (branches)?
 =======
-1. Hvağ gera eftirfarandi Linux skipanir?
-	cd = notağ til şess ağ breyta current directory
-	cd ~ = fer á fyrri skrá sem şú varst á síğast
-	ls = command sem skrifar út lista um öll unix og unix-like files
-	pwd = skrifar fullt pathname núverandi vinnumöppu viğ stağlağa framleiğslu.
-	mkdir = Stytting á "gera skrá", mkdir er notağ til ağ búa til möppur á skrá kerfi.
+1. HvaÃ° gera eftirfarandi Linux skipanir?
+	cd = notaÃ° til Ã¾ess aÃ° breyta current directory
+	cd ~ = fer Ã¡ fyrri skrÃ¡ sem Ã¾Ãº varst Ã¡ sÃ­Ã°ast
+	ls = command sem skrifar Ãºt lista um Ã¶ll unix og unix-like files
+	pwd = skrifar fullt pathname nÃºverandi vinnumÃ¶ppu viÃ° staÃ°laÃ°a framleiÃ°slu.
+	mkdir = Stytting Ã¡ "gera skrÃ¡", mkdir er notaÃ° til aÃ° bÃºa til mÃ¶ppur Ã¡ skrÃ¡ kerfi.
 
-2. Hvağ gera eftirfarandi git skipanir og hvers vegna eru şær gagnlegar?
-	git clone = Klónar geymslu í nıja skrá
-	git log = Sına Commit loginn
-	git status = Sınir vinnandi tré statusinn
-	git diff = Sınir breytingar á milli commits og commit and working tree, etc
-	git checkout = Breytir útibú eğa endurheimtar working tree skrár
+2. HvaÃ° gera eftirfarandi git skipanir og hvers vegna eru Ã¾Ã¦r gagnlegar?
+	git clone = KlÃ³nar geymslu Ã­ nÃ½ja skrÃ¡
+	git log = SÃ½na Commit loginn
+	git status = SÃ½nir vinnandi trÃ© statusinn
+	git diff = SÃ½nir breytingar Ã¡ milli commits og commit and working tree, etc
+	git checkout = Breytir ÃºtibÃº eÃ°a endurheimtar working tree skrÃ¡r
 
-3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff = Sınir breytingar á milli commits og commit and working tree, etc
-	b) git diff --staged = Sınir allar breytingar
-	c) git diff commit1 commit2 = Sınir fyrsta og annağ commitiğ
+3. Hver er munurinn Ã¡ eftirfarandi git skipunum:
+	a) git diff = SÃ½nir breytingar Ã¡ milli commits og commit and working tree, etc
+	b) git diff --staged = SÃ½nir allar breytingar
+	c) git diff commit1 commit2 = SÃ½nir fyrsta og annaÃ° commitiÃ°
 
-4. 	Hvağ er útgáfustıring (e.4. 	Hvağ er útgáfustıring (e.version control)?  
-        Şağ er kerfi sem tekur upp breytingar í ákveğnu filei eğa hóp af fileum
+4. 	HvaÃ° er ÃºtgÃ¡fustÃ½ring (e.4. 	HvaÃ° er ÃºtgÃ¡fustÃ½ring (e.version control)?  
+        ÃaÃ° er kerfi sem tekur upp breytingar Ã­ Ã¡kveÃ°nu filei eÃ°a hÃ³p af fileum
 
 
-5.	Hverjir eru helstu kostir viğ ağ nota GIT?
-        şağ er mjög góğ leiğ til ağ geyma verkefninn sín
+5.	Hverjir eru helstu kostir viÃ° aÃ° nota GIT?
+        Ã¾aÃ° er mjÃ¶g gÃ³Ã° leiÃ° til aÃ° geyma verkefninn sÃ­n
 
-6.	Hversu oft telur şú ağ eigi ağ gera commit í verkefni, rökstuddu?
-        Mjög lítiğ, şví ağ ég gleymi şví 
+6.	Hversu oft telur Ã¾Ãº aÃ° eigi aÃ° gera commit Ã­ verkefni, rÃ¶kstuddu?
+        MjÃ¶g lÃ­tiÃ°, Ã¾vÃ­ aÃ° Ã©g gleymi Ã¾vÃ­ 
 
-7.	Hvağ er "Working directory"?" "Staging area"?" og "Repository" í GIT?
-        Working directory = Er mappan meğ upprunalegu skrármar undir git stjórn (í rót allra dirs undir stjórn .git skrá er til stağar).
-        Staging area = Er fyrsta skrefiğ til ağ fremja ferli í git. Şağ er gert í tveimur skrefum: sviğsetning(staging) og alvöru commitiğ.
-        Repository = Şar sem mağur geymir verkefninn sín
+7.	HvaÃ° er "Working directory"?" "Staging area"?" og "Repository" Ã­ GIT?
+        Working directory = Er mappan meÃ° upprunalegu skrÃ¡rmar undir git stjÃ³rn (Ã­ rÃ³t allra dirs undir stjÃ³rn .git skrÃ¡ er til staÃ°ar).
+        Staging area = Er fyrsta skrefiÃ° til aÃ° fremja ferli Ã­ git. ÃaÃ° er gert Ã­ tveimur skrefum: sviÃ°setning(staging) og alvÃ¶ru commitiÃ°.
+        Repository = Ãar sem maÃ°ur geymir verkefninn sÃ­n
 
-8.	Hvenær er sniğugt ağ nota greinar (branches)?
+8.	HvenÃ¦r er sniÃ°ugt aÃ° nota greinar (branches)?
 >>>>>>> 2e279384c408cbd193ae2c12c1cae63c5f709348
-        Ef --list er gefiğ, eğa ef şağ eru engit utanlegir valkostir, şá er branch skráğ niğur
+        Ef --list er gefiÃ°, eÃ°a ef Ã¾aÃ° eru engit utanlegir valkostir, Ã¾Ã¡ er branch skrÃ¡Ã° niÃ°ur
 
-Andri Snær Brynjarsson
+Andri SnÃ¦r Brynjarsson
+hemmi er samt betri
