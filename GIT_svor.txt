@@ -73,4 +73,4 @@
 >>>>>>> 2e279384c408cbd193ae2c12c1cae63c5f709348
         Ef --list er gefið, eða ef það eru engit utanlegir valkostir, þá er branch skráð niður
 
-Andri Snær Brynjarsson
+Andri Bnær Brynjarsson
