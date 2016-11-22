@@ -74,4 +74,3 @@
         Ef --list er gefið, eða ef það eru engit utanlegir valkostir, þá er branch skráð niður
 
 Andri Snær Brynjarsson
-hemmi er samt betri
